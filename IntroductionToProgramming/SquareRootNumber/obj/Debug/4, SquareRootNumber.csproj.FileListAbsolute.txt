@@ -1,0 +1,5 @@
+c:\users\fi11\documents\visual studio 2013\Projects\Solution1\SquareRootNumber\bin\Debug\SquareRootNumber.exe
+c:\users\fi11\documents\visual studio 2013\Projects\Solution1\SquareRootNumber\bin\Debug\SquareRootNumber.pdb
+c:\users\fi11\documents\visual studio 2013\Projects\Solution1\SquareRootNumber\obj\Debug\4, SquareRootNumber.csprojResolveAssemblyReference.cache
+c:\users\fi11\documents\visual studio 2013\Projects\Solution1\SquareRootNumber\obj\Debug\SquareRootNumber.exe
+c:\users\fi11\documents\visual studio 2013\Projects\Solution1\SquareRootNumber\obj\Debug\SquareRootNumber.pdb

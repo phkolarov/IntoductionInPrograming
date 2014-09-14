@@ -1,0 +1,6 @@
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

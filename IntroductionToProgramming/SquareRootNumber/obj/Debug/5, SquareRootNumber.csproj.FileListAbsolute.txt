@@ -1,0 +1,2 @@
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\SquareRootNumber\obj\Debug\SquareRootNumber.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\SquareRootNumber\obj\Debug\SquareRootNumber.pdb

@@ -1,0 +1,4 @@
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

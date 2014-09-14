@@ -1,0 +1,10 @@
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication2\obj\Debug\02. PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\ConsoleApplication2\obj\Debug\02. PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb

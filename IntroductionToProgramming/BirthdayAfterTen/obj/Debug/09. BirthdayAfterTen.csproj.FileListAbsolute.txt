@@ -1,0 +1,6 @@
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\BirthdayAfterTen\obj\Debug\BirthdayAfterTen.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\BirthdayAfterTen\obj\Debug\BirthdayAfterTen.pdb
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\BirthdayAfterTen\obj\Debug\BirthdayAfterTen.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\BirthdayAfterTen\obj\Debug\BirthdayAfterTen.pdb
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\BirthdayAfterTen\bin\Debug\BirthdayAfterTen.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\BirthdayAfterTen\bin\Debug\BirthdayAfterTen.pdb

@@ -1,0 +1,4 @@
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\Solution1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Fi11\Documents\Visual Studio 2013\Projects\IntroductionToProgramming\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
